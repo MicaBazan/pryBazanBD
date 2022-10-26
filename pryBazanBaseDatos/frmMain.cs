@@ -36,5 +36,10 @@ namespace pryBazanBaseDatos
         {
             new frmRegistrarEntrenador().ShowDialog();
         }
+
+        private void deportistaToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            new frmEliminarDeportista().ShowDialog();
+        }
     }
 }

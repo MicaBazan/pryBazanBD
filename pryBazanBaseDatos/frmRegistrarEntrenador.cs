@@ -15,7 +15,7 @@ namespace pryBazanBaseDatos
     {
         //Ruta para conectar
         string ruta = "Provider=Microsoft.ACE.OLEDB.12.0;" +
-            "Data Source=C:\\Users\\marti\\Desktop\\pryBazanBaseDatos\\bin\\Debug\\DEPORTE.accdb";
+            "Data Source=DEPORTE.accdb";
 
         public frmRegistrarEntrenador()
         {

@@ -14,7 +14,7 @@ namespace pryBazanBaseDatos
     public partial class frmRegistrarDeportista : Form
     {
         string ruta = "Provider=Microsoft.ACE.OLEDB.12.0;" +
-            "Data Source=C:\\Users\\marti\\Desktop\\pryBazanBaseDatos\\bin\\Debug\\DEPORTE.accdb";
+            "Data Source=DEPORTE.accdb";
 
         public frmRegistrarDeportista()
         {
